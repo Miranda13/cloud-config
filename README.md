@@ -4,4 +4,4 @@
 - Serie service run on 8081 port
 - Movie service run on 8082 port
 - Eureka service run on 8761 port
-- Gatemay run on 8085 port
+- Gateway run on 8085 port
